@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a73d75d0","path":"/docs/trend/basic.html","title":"開発の基礎知識","lang":"en-US","frontmatter":{"title":"開発の基礎知識","date":"2023-02-02","categories":["vue"]},"headers":[{"level":2,"title":"JavaScript","slug":"javascript","link":"#javascript","children":[]}],"git":{},"filePathRelative":"docs/trend/basic.md"}');export{t as data};

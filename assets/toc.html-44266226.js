@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d0250104","path":"/docs/trend/toc.html","title":"フロントエンド技術入門","lang":"en-US","frontmatter":{"title":"フロントエンド技術入門"},"headers":[],"git":{},"filePathRelative":"docs/trend/toc.md"}');export{t as data};
